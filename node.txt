@@ -1,14 +1,11 @@
 #IEGSH_HongKong2
-ss://Y2hhY2hhMjAtaWV0ZjpVbmxvY2tpZWczQDM0LjkyLjExMy4yMTg6NDI2OTI#HongKong2
+ss://Y2hhY2hhMjAtaWV0ZjpVbmxvY2tpZWcz@34.96.229.130:31711/?#HongKong
 
 #IEGSH_Singapore
-ssr://MzQuODcuNTYuMjQxOjMxNzExOm9yaWdpbjpjaGFjaGEyMC1pZXRmOnBsYWluOlZXNXNiMk5yYVdWbk13Lz9vYmZzcGFyYW09JnJlbWFya3M9VTJsdVoyRndiM0psJmdyb3VwPVNVVkg
+ss://Y2hhY2hhMjAtaWV0ZjpVbmxvY2tpZWcz@34.87.56.241:31711/?#Singapore
 
 #IEGSH_Taiwan
-ssr://MTA0LjE5OS4xMzEuMjg6MzE3MTA6b3JpZ2luOmNoYWNoYTIwLWlldGY6cGxhaW46Vlc1c2IyTnJhV1ZuTXcvP29iZnNwYXJhbT0mcmVtYXJrcz1WR0ZwZDJGdUlEQXgmZ3JvdXA9U1VWSA
-
-#IEGSH_Taiwan1
-ssr://MzQuODAuMTgyLjE5MjozMTcxMDpvcmlnaW46Y2hhY2hhMjAtaWV0ZjpwbGFpbjpWVzVzYjJOcmFXVm5Ndy8_b2Jmc3BhcmFtPSZyZW1hcmtzPVZHRnBkMkZ1SURBeSZncm91cD1TVVZI
+ss://Y2hhY2hhMjAtaWV0ZjpVbmxvY2tpZWcz@34.80.31.84:31711/?#Taiwan
 
 #IEGSH_JMS01
 ss://YWVzLTI1Ni1nY206N3JEcThKRUdFUw==@c50s1.jamjams.net:13599/?#JMS01
