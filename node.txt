@@ -18,3 +18,6 @@ ss://YWVzLTI1Ni1nY206N3JEcThKRUdFUw==@c50s4.jamjams.net:13599/?plugin=simple-obf
 
 #IEGSH_JMS05
 ss://YWVzLTI1Ni1jZmI6N3JEcThKRUdFUw==@c50s5.jamjams.net:13599/?#JMS05
+
+#IEG_Los Angeles
+ss://Y2hhY2hhMjAtaWV0ZjpVbmxvY2tpZWczQDM1LjIzNS44Ni4xNjc6MzE3MTE
