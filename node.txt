@@ -7,6 +7,9 @@ ss://Y2hhY2hhMjAtaWV0ZjpVbmxvY2tpZWcz@34.87.56.241:31711/?#Singapore
 #IEGSH_Taiwan
 ss://Y2hhY2hhMjAtaWV0ZjpVbmxvY2tpZWcz@34.80.31.84:31711/?#Taiwan
 
+#IEG_Taiwan1
+ss://Y2hhY2hhMjAtaWV0ZjpVbmxvY2tpZWczQDM0LjgwLjE5NS4yMzI6MzE3MTE
+
 #IEGSH_JMS01
 ss://YWVzLTI1Ni1nY206N3JEcThKRUdFUw==@c50s1.jamjams.net:13599/?#JMS01
 
