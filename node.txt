@@ -16,11 +16,5 @@ ss://YWVzLTI1Ni1nY206N3JEcThKRUdFUw==@c50s1.jamjams.net:13599/?#JMS01
 #IEGSH_JMS02
 ss://YWVzLTI1Ni1nY206N3JEcThKRUdFUw==@c50s2.jamjams.net:13599/?#JMS02
 
-#IEGSH_JMS04
-ss://YWVzLTI1Ni1nY206N3JEcThKRUdFUw==@c50s4.jamjams.net:13599/?plugin=simple-obfs;obfs%3Dtls#JMS04
-
-#IEGSH_JMS05
-ss://YWVzLTI1Ni1jZmI6N3JEcThKRUdFUw==@c50s5.jamjams.net:13599/?#JMS05
-
 #IEG_Los Angeles
 ss://Y2hhY2hhMjAtaWV0ZjpVbmxvY2tpZWczQDM1LjIzNS44Ni4xNjc6MzE3MTE
