@@ -1,20 +1,26 @@
-#IEGSH_HongKong2
-ss://Y2hhY2hhMjAtaWV0ZjpVbmxvY2tpZWcz@34.96.229.130:31711/?#HongKong
-
-#IEGSH_Singapore
-ss://Y2hhY2hhMjAtaWV0ZjpVbmxvY2tpZWcz@34.87.56.241:31711/?#Singapore
+#IEGSH_Hong Kong
+trojan://72cf6a96-8661-4f2c-8e61-237ff859e5f6@np.iegv2ray.tk:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#Hong%20Kong
 
 #IEGSH_Taiwan
-ss://Y2hhY2hhMjAtaWV0ZjpVbmxvY2tpZWcz@34.80.31.84:31711/?#Taiwan
+trojan://dd5e5b84-3d4e-44e1-a430-513cb7f67a94@iegv2ray.tk:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#Taiwan
 
-#IEG_Taiwan1
-ss://Y2hhY2hhMjAtaWV0ZjpVbmxvY2tpZWczQDM0LjgwLjE5NS4yMzI6MzE3MTE
+#IEGSH_Taiwan2
+trojan://IEGieg123@frog.iegv2ray.tk:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#Taiwan2
 
 #IEGSH_JMS01
-ss://YWVzLTI1Ni1nY206N3JEcThKRUdFUw==@c50s1.jamjams.net:13599/?#JMS01
+ss://YWVzLTI1Ni1nY206N3JEcThKRUdFU0AxMDQuMjI1LjE1OS4xMjU6MTM1OTk/#JMS01
 
 #IEGSH_JMS02
-ss://YWVzLTI1Ni1nY206N3JEcThKRUdFUw==@c50s2.jamjams.net:13599/?#JMS02
+ss://YWVzLTI1Ni1nY206N3JEcThKRUdFU0AxMDQuMjI1LjE1Ny4xNjU6MTM1OTk/#JMS02
 
-#IEG_Los Angeles
-ss://Y2hhY2hhMjAtaWV0ZjpVbmxvY2tpZWczQDM1LjIzNS44Ni4xNjc6MzE3MTE
+#IEGSH_JMS03
+vmess://eyJhZGQiOiIxOTkuMTkzLjEyNy44NyIsImFpZCI6OCwiaWQiOiIyNWExMGE3ZC05M2VjLTRlNzItODgzMy02ZWJlYjA5MTZkYjUiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoxMzU5OSwicHMiOiJKTVMwMyIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
+
+#IEGSH_JMS04
+vmess://eyJhZGQiOiIyMDQuMTI0LjE4MC40NyIsImFpZCI6OCwiaWQiOiIyNWExMGE3ZC05M2VjLTRlNzItODgzMy02ZWJlYjA5MTZkYjUiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoxMzU5OSwicHMiOiJKTVMwNCIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
+
+#IEGSH_JMS05
+vmess://eyJhZGQiOiIxMDQuMTkzLjguMjI5IiwiYWlkIjo4LCJpZCI6IjI1YTEwYTdkLTkzZWMtNGU3Mi04ODMzLTZlYmViMDkxNmRiNSIsIm5ldCI6InRjcCIsInBvcnQiOjEzNTk5LCJwcyI6IkpNUzA1IiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6Mn0=
+
+#IEGSH_JMS06
+vmess://eyJhZGQiOiIyMy44My4yNDYuNjkiLCJhaWQiOjgsImlkIjoiMjVhMTBhN2QtOTNlYy00ZTcyLTg4MzMtNmViZWIwOTE2ZGI1IiwibmV0IjoidGNwIiwicG9ydCI6MTM1OTksInBzIjoiSk1TMDYiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
